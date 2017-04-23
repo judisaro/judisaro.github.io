@@ -1,0 +1,136 @@
+.titulo{
+	position: absolute;
+	top: 2%;
+	left: 5%;
+	font: 300% sans-serif;
+	font-weight:600;
+	color:#17181C;
+	border-bottom: 3px solid #000;
+	text-shadow: -2px -2px 5px #A6A0A0, 1px 1px 2px #B44444;
+
+}
+
+.fontTitle{
+	font-family: Helvetica;
+}
+
+#contenedorTitulo .callout {
+	background-color: #00011a;
+	padding: 2px;
+	margin: 0;
+
+}
+
+body{
+	background-color: #494B58;
+}
+
+#contenedorMenu , #contenedorSubMenu{
+	background-color: #1E1F24;
+	font-family: 'Bree Serif', serif;
+	border-color: #757575;
+}
+#contenedorMenu ul li a , #contenedorSubMenu ul li a{
+	color: lightblue;
+}
+
+ #contenedorMenu ul li a:hover, #contenedorSubMenu ul li a:hover{
+ 	color: white;
+ }
+
+ .input{
+ 	background-color: #777981;
+ 	position: absolute;
+ 	left: 30%;
+ 	top: 25%;
+ 	width: 40%;
+
+ 	border-radius: 20px 20px 20px 20px;
+	border: 2px solid #665555;
+
+	margin: 10px;
+	padding-top: 30px;
+	padding-bottom: 50px;
+	padding-left: 20px;
+	padding-right: 20px;
+
+ }
+.input .text-input{
+	font-size:20px;
+}
+
+.input .button-input{
+	transition: background-color 1.5s ease;
+
+	border-radius: 10px 10px 10px 10px;
+	border-bottom: 5px solid #283D43;
+	border-left: 5px solid #283D43;
+	border-right:1px solid #283D43;
+	border-top: 1px solid #283D43;
+
+	color: #B4B4B4;
+	background-color: #000E3D;
+
+	position: absolute;
+	left: 2%;
+	top: 65%;
+	width: 96%;
+	height:12%;
+}
+
+.input .button-input{
+	transition: background-color 1.5s ease;
+
+	border-radius: 10px 10px 10px 10px;
+	border-bottom: 5px solid #203035;
+	border-left: 5px solid #203035;
+	border-right:1px solid #203035;
+	border-top: 1px solid #203035;
+
+	color: #fff;
+	background-color: #0A1C57;
+
+}
+
+
+.input .button-input:hover{
+	transition: background-color 1.5s ease;
+
+	border-radius: 10px 10px 10px 10px;
+	border-bottom: 5px solid #203035;
+	border-left: 5px solid #203035;
+	border-right:1px solid #203035;
+	border-top: 1px solid #203035;
+
+	color: #9C9C9C;
+	background-color: #0F2776;
+
+}
+
+.input .input{
+ 	position: absolute;
+ 	left: 0%;
+ 	top: 80%;
+ 	width: 96%;
+ 	padding-top: 10px;
+	padding-bottom: 0px;
+
+	border-radius: 20px 20px 20px 20px;
+	border: 2px solid #57585F;
+
+	text-align: center;
+	position: absolute;
+	color: #fff;
+	background-color: #606169;
+
+}
+
+
+
+
+.input .input .a-input {
+	text-decoration: none;
+	text-decoration: underline;
+}
+
+

@@ -1,0 +1,30 @@
+#contenedorTitulo .callout {
+	background-color: #00011a;
+	padding: 2px;
+	margin: 0;
+}
+body{
+	background-color: #494B58;
+}
+.sliders{
+	background-color: #2C2D35;
+}
+
+#contenedorMenu , #contenedorSubMenu{
+	background-color: #1E1F24;
+	font-family: 'Bree Serif', serif;
+	border-color: #757575;
+}
+#contenedorMenu ul li a , #contenedorSubMenu ul li a{
+	color: lightblue;
+}
+
+ #contenedorMenu ul li a:hover, #contenedorSubMenu ul li a:hover{
+ 	color: white;
+ }
+
+.box{
+	border-radius: 20px 20px 20px 20px;
+	border: 2px solid #423131;
+	margin: 3px;
+}
